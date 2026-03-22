@@ -1,0 +1,7 @@
+name = "calx-etak64n-dev"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+routes = [
+  { pattern = "calx.etak64n.dev", custom_domain = true },
+]
